@@ -12,6 +12,11 @@ class Company extends Component {
         </div>
         <div className="card-body text-secondary">
           <p className="card-text">{this.props.company.description}</p>
+          <div className="card-footer text-right">
+            <a href={this.props.company.crunchbase_url} class="card-link">
+              source: crunchbase
+            </a>
+          </div>
         </div>
       </div>
     );
