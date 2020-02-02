@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-govtech-list/static/css/main.d1b05096.chunk.css",
-    "main.js": "/react-govtech-list/static/js/main.091048c3.chunk.js",
-    "main.js.map": "/react-govtech-list/static/js/main.091048c3.chunk.js.map",
+    "main.js": "/react-govtech-list/static/js/main.95cdcaec.chunk.js",
+    "main.js.map": "/react-govtech-list/static/js/main.95cdcaec.chunk.js.map",
     "runtime-main.js": "/react-govtech-list/static/js/runtime-main.c677906b.js",
     "runtime-main.js.map": "/react-govtech-list/static/js/runtime-main.c677906b.js.map",
     "static/css/2.67123b20.chunk.css": "/react-govtech-list/static/css/2.67123b20.chunk.css",
     "static/js/2.916fab00.chunk.js": "/react-govtech-list/static/js/2.916fab00.chunk.js",
     "static/js/2.916fab00.chunk.js.map": "/react-govtech-list/static/js/2.916fab00.chunk.js.map",
     "index.html": "/react-govtech-list/index.html",
-    "precache-manifest.f008cad9f90a77c3037599f0179390cb.js": "/react-govtech-list/precache-manifest.f008cad9f90a77c3037599f0179390cb.js",
+    "precache-manifest.f609110b491bbbaf758dcd06f9839b56.js": "/react-govtech-list/precache-manifest.f609110b491bbbaf758dcd06f9839b56.js",
     "service-worker.js": "/react-govtech-list/service-worker.js",
     "static/css/2.67123b20.chunk.css.map": "/react-govtech-list/static/css/2.67123b20.chunk.css.map",
     "static/css/main.d1b05096.chunk.css.map": "/react-govtech-list/static/css/main.d1b05096.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.67123b20.chunk.css",
     "static/js/2.916fab00.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.091048c3.chunk.js"
+    "static/js/main.95cdcaec.chunk.js"
   ]
 }

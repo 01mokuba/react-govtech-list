@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9ab3608b7de6e487e6d7114395c6676",
+    "revision": "80c7c5fefa08182479212565b04eb6d7",
     "url": "/react-govtech-list/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-govtech-list/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "165865a775ad302548df",
+    "revision": "907fdf15d676343a46f2",
     "url": "/react-govtech-list/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-govtech-list/static/js/2.916fab00.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "165865a775ad302548df",
-    "url": "/react-govtech-list/static/js/main.091048c3.chunk.js"
+    "revision": "907fdf15d676343a46f2",
+    "url": "/react-govtech-list/static/js/main.95cdcaec.chunk.js"
   },
   {
     "revision": "6b8bdad9823de321f90c",
