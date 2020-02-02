@@ -6,16 +6,6 @@ class App extends Component {
   state = {
     companies: [
       {
-        id: 1,
-        company_name: "120WaterAudit",
-        founded_year: 2016,
-        description:
-          "120WaterAudit offers cloud-based water management software.",
-        official_url: "https://120wateraudit.com/",
-        crunchbase_url:
-          "https://www.crunchbase.com/organization/120wateraudit#section-overview"
-      },
-      {
         id: 2,
         company_name: "3AM Innovations",
         founded_year: 2015,
